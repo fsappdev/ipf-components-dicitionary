@@ -1,0 +1,3 @@
+# ipf-components-dicitionary
+# GUIA PARA CREAR DICCIONARIOS DE COMPONENTES DE REACT
+  
